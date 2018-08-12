@@ -1212,7 +1212,6 @@ How you solve the toy problem is up to you, if you can't figure it out check out
 import React, { Component } from 'react';
 
 export default class Palindrome extends Component {
-
   constructor() {
     super();
 
